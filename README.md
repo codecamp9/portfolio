@@ -1,2 +1,2 @@
 # portfolio
-A minimal portfolio template for Developers
+A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, and Font Awesome.

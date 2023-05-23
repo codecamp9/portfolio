@@ -7,4 +7,4 @@ A simple, responsive, single-page portfolio and resume for developers built with
 - Shows you’re more than just a resume
 
 ## License
-Basically, feel free to use and re-use any way you want. Created by nurkholismajid (https://github.com/nurkholismajid).
+Basically, feel free to use and re-use any way you want. Created by [nurkholismajid](https://github.com/nurkholismajid)
